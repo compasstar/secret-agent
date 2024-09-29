@@ -1,0 +1,5 @@
+*.css
+*.json
+eslint.config.js
+vite.config.js
+.prettierrc
